@@ -12,3 +12,5 @@ add_executable(junia_isen3_topgun main.c
         Direction.h
         Sprite.c
         Sprite.h)
+
+add_compile_options(-g)
